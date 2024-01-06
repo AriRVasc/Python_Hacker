@@ -1,0 +1,15 @@
+ns1
+ns2
+ns3
+ns4
+intranet
+ssh
+mail
+txt
+ftp
+CNAME
+extranet 
+server
+MX
+A
+NS
